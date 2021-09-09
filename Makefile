@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2016 Antony Chazapis <chazapis@gmail.com>
+# Copyright (C) 2021 Lin <bg0ge.cn@gmail.com>
 #
 # This is free software, licensed under the GNU General Public License v2.
 # See /LICENSE for more information.
@@ -13,8 +13,6 @@ PKG_RELEASE:=1
 PKG_LICENSE:=BSD-3-Clause
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
-#PKG_SOURCE_URL:=http://thelifeofkenneth.com/aprx/release
-#PKG_MD5SUM:=662b1d257c39ad58c58954452726e4ac
 
 PKG_INSTALL:=1
 
